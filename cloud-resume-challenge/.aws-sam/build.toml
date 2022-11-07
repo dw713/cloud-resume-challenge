@@ -2,7 +2,7 @@
 
 [function_build_definitions]
 [function_build_definitions.522072fe-4d1f-4efe-ac3b-4c7d3be0e021]
-codeuri = "C:\\Users\\DW\\Documents\\GitHub\\non-git-hub-published-repos-local\\cloud-resume-challenge\\cloud-resume-challenge\\hello-world"
+codeuri = "C:\\Users\\DW\\Documents\\GitHub\\Local-Repos\\cloud-resume-challenge\\cloud-resume-challenge\\hello-world"
 runtime = "go1.x"
 architecture = "x86_64"
 handler = "hello-world"
