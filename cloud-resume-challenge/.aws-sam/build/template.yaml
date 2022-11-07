@@ -12,7 +12,7 @@ Resources:
   MyWebsite:
     Type: AWS::S3::Bucket
     Properties:
-      BucketName: dw713-resume-website
+      BucketName: my-fantastic-website
   HelloWorldFunction:
     Type: AWS::Serverless::Function
     Properties:
@@ -29,8 +29,6 @@ Resources:
       Environment:
         Variables:
           PARAM1: VALUE
-    Metadata:
-      SamResourceId: HelloWorldFunction
 Outputs:
   HelloWorldAPI:
     Description: API Gateway endpoint URL for Prod environment for First Function
